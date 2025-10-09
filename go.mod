@@ -9,8 +9,8 @@ require (
 	github.com/coreos/ignition/v2 v2.20.0
 	github.com/ghodss/yaml v1.0.1-0.20220118164431-d8423dcdf344
 	github.com/go-logr/logr v1.4.3
-	github.com/onsi/ginkgo/v2 v2.22.2
-	github.com/onsi/gomega v1.36.2
+	github.com/onsi/ginkgo/v2 v2.23.3
+	github.com/onsi/gomega v1.37.0
 	github.com/openshift/api v0.0.0-20250710082954-674ad74beffc
 	github.com/openshift/cloud-credential-operator v0.0.0-20250630222159-c2641839cffa
 	github.com/openshift/machine-config-operator v0.0.1-0.20241126072907-0ccd787ec951
@@ -35,8 +35,8 @@ require (
 	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c // indirect
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.4.2 // indirect
 	github.com/BurntSushi/toml v1.5.0 // indirect
-	github.com/IBM/go-sdk-core/v5 v5.18.5 // indirect
-	github.com/IBM/vpc-go-sdk v0.35.0 // indirect
+	github.com/IBM/go-sdk-core/v5 v5.21.0 // indirect
+	github.com/IBM/vpc-go-sdk v0.74.1 // indirect
 	github.com/MakeNowJust/heredoc v1.0.0 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/avast/retry-go/v4 v4.5.1 // indirect
@@ -103,7 +103,7 @@ require (
 	github.com/go-openapi/swag/yamlutils v0.24.0 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
-	github.com/go-playground/validator/v10 v10.19.0 // indirect
+	github.com/go-playground/validator/v10 v10.26.0 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/gobuffalo/flect v1.0.3 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
@@ -166,7 +166,7 @@ require (
 	github.com/vmware/govmomi v0.33.1 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	github.com/xlab/treeprint v1.2.0 // indirect
-	go.mongodb.org/mongo-driver v1.14.0 // indirect
+	go.mongodb.org/mongo-driver v1.17.2 // indirect
 	go.opentelemetry.io/otel v1.34.0 // indirect
 	go.opentelemetry.io/otel/trace v1.34.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
