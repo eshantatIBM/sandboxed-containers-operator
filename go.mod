@@ -197,7 +197,7 @@ require (
 	k8s.io/kubectl v0.33.3 // indirect
 	k8s.io/utils v0.0.0-20250820121507-0af2bda4dd1d // indirect
 	libvirt.org/go/libvirt v1.9008.0 // indirect
-	libvirt.org/go/libvirtxml v1.9007.0 // indirect
+	libvirt.org/go/libvirtxml v1.11009.0 // indirect
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730 // indirect
 	sigs.k8s.io/kustomize/api v0.19.0 // indirect
 	sigs.k8s.io/kustomize/kyaml v0.19.0 // indirect
