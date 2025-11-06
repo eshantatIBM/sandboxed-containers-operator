@@ -19,7 +19,7 @@ require (
 	go.uber.org/zap v1.27.0
 	k8s.io/api v0.34.1
 	k8s.io/apimachinery v0.34.1
-	k8s.io/cli-runtime v0.33.3
+	k8s.io/cli-runtime v0.34.1
 	k8s.io/client-go v0.34.1
 	sigs.k8s.io/controller-runtime v0.22.2
 )
@@ -197,7 +197,7 @@ require (
 	k8s.io/gengo/v2 v2.0.0-20250604051438-85fd79dbfd9f // indirect
 	k8s.io/klog/v2 v2.130.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20250710124328-f3f2b991d03b // indirect
-	k8s.io/kubectl v0.33.3 // indirect
+	k8s.io/kubectl v0.34.1 // indirect
 	k8s.io/utils v0.0.0-20251002143259-bc988d571ff4 // indirect
 	libvirt.org/go/libvirt v1.11006.0 // indirect
 	libvirt.org/go/libvirtxml v1.11008.0 // indirect
